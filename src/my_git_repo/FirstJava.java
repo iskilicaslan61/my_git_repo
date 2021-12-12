@@ -5,7 +5,8 @@ public class FirstJava {
 	public static void main(String[] args) {
 
 		int x=2;
-		
+		String f="Ahmet"
+				
 		System.out.println(x);
 
 
