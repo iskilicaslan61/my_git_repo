@@ -1,10 +1,10 @@
 package my_git_repo;
 
-public class FifthJava {
+public class MyLocalClass1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("hello world");
+		
 
 	}
 
