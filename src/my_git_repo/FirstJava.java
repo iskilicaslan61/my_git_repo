@@ -10,7 +10,7 @@ public class FirstJava {
 
 
 
-		char x='a';
+		char y='a';
 		
 		
 		System.out.println(x);
