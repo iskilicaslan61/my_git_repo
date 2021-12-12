@@ -14,6 +14,7 @@ public class FirstJava {
 		
 		
 		System.out.println(x);
+		System.out.println(y);
 
 
 	}
